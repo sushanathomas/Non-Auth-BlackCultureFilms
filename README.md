@@ -8,6 +8,8 @@ I built this project to practice using Express, EJS, and MongoDB to create a CRU
 
 [Visit Films: Classics from the Culture](https://black-culture-films.onrender.com)
 
+<img width="1900" height="895" alt="BlckFilm" src="https://github.com/user-attachments/assets/3288b447-5970-4c09-b52d-ab3c1a17e015" />
+
 ## Features
 
 - Add films with a title, genre, release year, watched status, and optional poster URL.
