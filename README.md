@@ -4,9 +4,7 @@ A full-stack movie watchlist celebrating Black stories, talent, and cinema.
 
 I built this project to practice using Express, EJS, and MongoDB to create a CRUD application without authentication.
 
-## Live Application
-
-Render: Classics from the Culture https://black-culture-films.onrender.com
+# Preview of Site 
 
 <img width="1900" height="895" alt="BlckFilm" src="https://github.com/user-attachments/assets/3288b447-5970-4c09-b52d-ab3c1a17e015" />
 
