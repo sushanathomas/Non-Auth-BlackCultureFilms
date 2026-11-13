@@ -1,4 +1,4 @@
-# Films: Classics from the Culture(Express)
+# Films: Classics from the Culture(non-auth)
 
 A full-stack movie watchlist celebrating Black stories, talent, and cinema.
 
